@@ -218,7 +218,7 @@ variables:
       gamess-command: bin/run-gamess.sh
       mem: '4295000000'
       backend: local
-      number-processors: '8'
+      number-processors: '4'
       startIndex: '0'
       numberMolecules: '1'
       basis: GBASIS=PM3
